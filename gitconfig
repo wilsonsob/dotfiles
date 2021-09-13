@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = wilsonsenhor@gmail.com
+	name = Wilson Filho
